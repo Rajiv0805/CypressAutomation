@@ -1,0 +1,6 @@
+{
+    "baseUrl":"http://staging-tutoring.fft.org.uk/app/account/forgotten-password-submitted/",
+    "ignoreTestFiles": "**/examples/*",
+    "viewPortHeight": 1080,
+    "viewPortWihdth": 1920
+}
